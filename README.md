@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Tazah.
+- 🌱 I’m currently learning Backend Technologies.
+- 💬 Ask me about Flutter.
+- 📫 How to reach me: LinkedIn--->https://www.linkedin.com/in/muhammad-musa-587380154/.
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: Code, Eat, Sleep, Repeat.
