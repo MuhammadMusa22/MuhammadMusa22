@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
 # 💫About Me :
 🔭 I’m currently working on Tazah.
 🌱 I’m currently learning Backend Technologies.
@@ -24,6 +22,10 @@ Here are some ideas to get you started:
 📫 How to reach me: LinkedIn--->https://www.linkedin.com/in/muhammad-musa-587380154/.
 😄 Pronouns: He/His
 ⚡ Fun fact: Code, Eat, Sleep, Repeat.
+
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" height="150"/>
+</div>
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/musa_dev_22) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-musa-587380154) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8805294) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCBcRCAKdVf72b_SlrGwq6LA) 
