@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 # 💫About Me :
-🔭 I’m currently working on Tazah.
-🌱 I’m currently learning Backend Technologies.
-💬 Ask me about Flutter.
-📫 How to reach me: LinkedIn--->https://www.linkedin.com/in/muhammad-musa-587380154/.
-😄 Pronouns: He/His
-⚡ Fun fact: Code, Eat, Sleep, Repeat.
+🔭 I’m currently working on Tazah.<br/>
+🌱 I’m currently learning Backend Technologies.<br/>
+💬 Ask me about Flutter.<br/>
+📫 How to reach me: LinkedIn--->https://www.linkedin.com/in/muhammad-musa-587380154/.<br/>
+😄 Pronouns: He/His<br/>
+⚡ Fun fact: Code, Eat, Sleep, Repeat.<br/>
 
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" height="150"/>
