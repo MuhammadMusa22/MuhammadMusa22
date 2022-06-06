@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   
 I am Muhammad Musa, Flutter Developer.<br/>
 # 💫About Me :
-🔭 I’m currently working on <a href="https://gthub.com/tazah-tech">Tazah</a>.<br/>
+🔭 I’m currently working on <a href="https://github.com/tazah-tech">Tazah</a>.<br/>
 🌱 I’m currently learning Backend Technologies.<br/>
 💬 Ask me about Flutter.<br/>
 📫 How to reach me: LinkedIn--->https://www.linkedin.com/in/muhammad-musa-587380154/.<br/>
