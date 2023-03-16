@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
   
 I am Muhammad Musa, Flutter Developer.<br/>
 # 💫About Me :
@@ -24,8 +25,9 @@ I am Muhammad Musa, Flutter Developer.<br/>
 😄 Pronouns: He/His<br/>
 ⚡ Fun fact: Code, Eat, Sleep, Repeat.<br/>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" height="150"/>
+<div style="display:flex; justify-content:space-between; align-items:center;">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+   <a href="https://app.daily.dev/musaakhaan22"><img src="https://api.daily.dev/devcards/8ea18871f6e9475c820dc8d121403cb2.png?r=iis" width="200" alt="Muhammad Musa's Dev Card"/></a>
 </div>
 
 ## 🌐Socials
