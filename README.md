@@ -1,7 +1,9 @@
-### Hi there   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" height="50px"/>
+
 
 <!--
 **MuhammadMusa22/MuhammadMusa22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
@@ -15,7 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  
+<article class="markdown-body entry-content container-lg f5" itemprop="text"><p dir="auto"><animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f9ab3af0482570a32a73d256b071bbad03ca96df338f95f0297e775a8b53babd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f337a79573442414f6d356878795144714a372f67697068792e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/f9ab3af0482570a32a73d256b071bbad03ca96df338f95f0297e775a8b53babd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f337a79573442414f6d356878795144714a372f67697068792e676966" alt="giphy" data-canonical-src="https://media.giphy.com/media/3zyW4BAOm5hxyQDqJ7/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/f9ab3af0482570a32a73d256b071bbad03ca96df338f95f0297e775a8b53babd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f337a79573442414f6d356878795144714a372f67697068792e676966" target="_blank">
+          
+### Hi there   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" height="50px"/>  
 I am Muhammad Musa, Flutter Developer.<br/>
 # 💫About Me :
 🔭 I’m currently working on <a href="https://github.com/tazah-tech">Tazah</a>.<br/>
